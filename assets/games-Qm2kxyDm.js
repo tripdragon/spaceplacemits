@@ -1,4 +1,4 @@
-import{M as h,g as m,V as w,f as y,B as b,C as P,h as V,j as x,A as s,i as T,s as z,a as W,b as A,c as C,d as U,P as g,L as B}from"./superneatlib-CDdrmZ-Y.js";const L=new URL("/spaceplacemits/assets/avatar1-BpA5NGyz.glb",import.meta.url).href,_=new V,N=`
+import{M as h,g as m,V as w,f as y,B as b,C as P,h as V,j as x,A as s,i as T,s as z,a as W,b as A,c as C,d as U,P as g,L as B}from"./superneatlib-55_7TcBu.js";const L=new URL("/spaceplacemits/assets/avatar1-BpA5NGyz.glb",import.meta.url).href,_=new V,N=`
 varying vec2 v_UV; // Pass UV coordinates to fragment shader
 // uniform float uv_scale;
 uniform vec2 uv_scale;
